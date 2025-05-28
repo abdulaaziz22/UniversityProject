@@ -38,5 +38,4 @@ This project simulates a comprehensive **university campus network** using **Cis
 ## Author
 
 **Abdulaziz Mbark**  
-Cybersecurity and Networking
-University Project – 2025  
+Cybersecurity and Networking - University Project – 2025  
